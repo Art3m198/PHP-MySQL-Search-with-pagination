@@ -2,7 +2,7 @@
 
 Search in the database, and the pagination
 
-- PHP, jQuery, MySQL
+- PHP, jQuery, MySQL, CSS, HTML
 - Login and registration form with saving data to the database
 
 ## Screenshot
