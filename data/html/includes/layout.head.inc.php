@@ -18,7 +18,6 @@ FILEDOC;
 		};
 ?>
 		
-		<!-- Twitter Bootstrap -->
 		<!-- Minified CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/3.3.7/css/bootstrap.min.css">
 		<!-- Optional theme -->
@@ -31,12 +30,12 @@ FILEDOC;
 		
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="css/main.css?v=<?php echo time(); ?>">
-			<script type="text/javascript" src="assets/src/qrcode.min.js"></script>
-			<script type="text/javascript" src="assets/src/img.js"></script>
-			<link rel="stylesheet" href="assets/src/animate.min.css">
-<script type="text/javascript" src="assets/src/list.min.js"></script>
-<script type="text/javascript" src="assets/src/list.pagination.js"></script>
-<script src="assets/src/lodash.min.js"></script>
+		<script type="text/javascript" src="assets/src/qrcode.min.js"></script>
+		<script type="text/javascript" src="assets/src/img.js"></script>
+		<link rel="stylesheet" href="assets/src/animate.min.css">
+		<script type="text/javascript" src="assets/src/list.min.js"></script>
+		<script type="text/javascript" src="assets/src/list.pagination.js"></script>
+		<script src="assets/src/lodash.min.js"></script>
 
 	</head>
 	
