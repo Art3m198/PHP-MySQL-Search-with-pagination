@@ -5,7 +5,7 @@ Search in the database, and the pagination
 - PHP, jQuery, MySQL, CSS, HTML
 - Login and registration form with saving data to the database
 
-MySQL settings -> data/html/includes/settings.local.inc.php
+MySQL settings -> data/html/includes/settings.local.inc.php  
 
 ## Screenshot
 
